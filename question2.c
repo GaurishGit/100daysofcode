@@ -5,7 +5,7 @@ int main(int argc, char const *argv[])
    int a,b,c,d,e,f;
 
    printf("ENter your number a\n");
-   scanf("%d",& b);  
+   scanf("%d",& a);  
 
    printf("ENter your number b\n");
    scanf("%d",& b);  
@@ -24,3 +24,4 @@ printf ( "Your div is %d\n" , f);
 
     return 0;
 }
+
