@@ -1,4 +1,4 @@
-//Write a program to find the product of odd digits of a number.
+
 #include <stdio.h>
 int main() {
     int n, digit;
@@ -21,4 +21,5 @@ int main() {
     }
     printf("Product of odd digits: %d\n", product);
     return 0;
+
 }
